@@ -1,6 +1,6 @@
 module Lato
   module Rails
-    LATO_VERSION = "1.0.0"
-    VERSION      = "1.0.0"
+    FONT_VERSION = "1.0.0"
+    VERSION      = "1.0.1"
   end
 end

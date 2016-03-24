@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-For example, import the lato fonts inside your `application.scss`, with Sprockets:
+For example, import all lato fonts inside your `application.scss`, with Sprockets:
 
 ```css
 /*
@@ -43,7 +43,7 @@ If you use the
 add this to your `application.css.sass` file:
 
 ```sass
-@import font-awesome
+@import lato
 ```
 
 ## Contributing

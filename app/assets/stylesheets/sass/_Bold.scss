@@ -1,8 +1,8 @@
 /* BEGIN Bold */
 @font-face {
 	font-family: "Lato";
-	@include fontdef($FontPath, $FontName, $FontVersion, "Bold");
+	@include fontdef($FontPath, $FontName, $FontVersion, "bold");
 	font-weight: 700;
 	font-style: normal;
 }
-/* END Bold */
+/* END Bold */
